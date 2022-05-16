@@ -1,1 +1,6 @@
-# PyBer_Analysis
+# Overview of the analysis:
+Create a summary DataFrame of the ride-sharing data by city type. Pandas and Matplotlib will create a line graph that displays the total weekly fares by city type.
+# Results: 
+Rural city types have the lowest fare total, with the highest peak at the beginning of April. The second-lowest is suburban city types, with the highest peak in the ending weeks of February and the lowest week in the second week of April. The most elevated total fare consistently throughout the four months is Urban city types, with the highest week at the end of February and lowest at the beginning of the year in January, starting a little above $1,500. All three city types make a rise in the ending month of February.
+# Summary:
+The summary focuses on the first four months and the total fare by city type from January to April. A few things to note are that the beginning of the year does not have the highest count of holidays, and many individuals are looking to downsize for their New Year’s resolutions. The rideshare company can offer discounted rides. Different city types have different population sizes, which affects the number of drivers on the road, and the users requesting drivers might not always find a driver on the road around their area. One way to keep drivers on the road would be to incentives them with a bonus.
